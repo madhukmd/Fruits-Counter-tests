@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+/* Write your CSS here */
+.bdContainer {
+  background-color: #ffd569;
+  min-height: 100vh;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.contentContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 10px;
+  width: 80%;
+}
+.imageContentContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.imgContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  padding: 30px 10px 30px;
+  border-radius: 10px;
+  border: 1px solid #adb5bd;
+  transition: 0.5s;
+}
+.imgContainer:hover {
+  transform: scale(1.06);
+  box-shadow: 0 0 20px 5px #232325;
+}
+.image {
+  width: 200px;
+  height: 175px;
+}
+.heading {
+  text-align: center;
+  font-family: 'Poppins', 'sans-serif';
+  font-size: 40px;
+  font-weight: 900;
+  color: #000000;
+  margin-bottom: 30px;
+}
+.btn {
+  font-family: 'Roboto';
+  font-size: 12px;
+  padding: 10px 20px 10px;
+  color: #ffffff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  margin-top: 20px;
+}
+span {
+  color: #ffd569;
+}
