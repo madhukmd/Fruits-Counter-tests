@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Fruits-Counter-tests/static/css/main.c2c91919.chunk.css",
+    "main.js": "/Fruits-Counter-tests/static/js/main.0e60fcd1.chunk.js",
+    "main.js.map": "/Fruits-Counter-tests/static/js/main.0e60fcd1.chunk.js.map",
+    "runtime-main.js": "/Fruits-Counter-tests/static/js/runtime-main.a32587d1.js",
+    "runtime-main.js.map": "/Fruits-Counter-tests/static/js/runtime-main.a32587d1.js.map",
+    "static/js/2.1ab9f1a3.chunk.js": "/Fruits-Counter-tests/static/js/2.1ab9f1a3.chunk.js",
+    "static/js/2.1ab9f1a3.chunk.js.map": "/Fruits-Counter-tests/static/js/2.1ab9f1a3.chunk.js.map",
+    "index.html": "/Fruits-Counter-tests/index.html",
+    "static/css/main.c2c91919.chunk.css.map": "/Fruits-Counter-tests/static/css/main.c2c91919.chunk.css.map",
+    "static/js/2.1ab9f1a3.chunk.js.LICENSE.txt": "/Fruits-Counter-tests/static/js/2.1ab9f1a3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a32587d1.js",
+    "static/js/2.1ab9f1a3.chunk.js",
+    "static/css/main.c2c91919.chunk.css",
+    "static/js/main.0e60fcd1.chunk.js"
+  ]
+}
